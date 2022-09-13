@@ -76,4 +76,4 @@ EOF  help  quit
 ``
 <a href="https://github.com/RoseIrungu">RoseIrungu</a>
 
-<a href="https://github.com/zebbyG?tab=repositories"</a>
+<a href="https://github.com/zebbyG?tab=repositories">zebbyG</a>
